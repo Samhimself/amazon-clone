@@ -1,3 +1,15 @@
+# Preview App
+Try out the Amazon Clone!
+  [Amazon Clone](https://clone-6ed45.web.app/login)
+  
+### How to create a dummy order
+In the card payment, Click on the "Card Number" field and start repeatedly typing "42" until all fields are filled in the process.\
+
+##### EX:
+Card Number: 4242 4242 4242 4242\
+MM/YY: 04 / 24\
+CVC: 242
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
