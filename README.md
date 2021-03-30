@@ -2,7 +2,7 @@
 Try out the [Amazon Clone](https://clone-6ed45.web.app/login)!
   
 ### How to create a dummy order
-In the card payment, Click on the "Card Number" field and start repeatedly typing "42" until all fields are filled during process.
+In the card payment, click on the "Card Number" field and start repeatedly typing "42" until all fields are filled during the process.
 
 ##### EX:
 Card Number: 4242 4242 4242 4242\
